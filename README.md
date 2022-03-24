@@ -3,11 +3,11 @@
 | **Topic:**          | **Problem:**                                                                                             | **Completed**    | **Completed**    |
 |:-------------------:|:--------------------------------------------------------------------------------------------------------:|:----------------:|:----------------:|
 |                     |                                                                                                          |                  |                  | 
-| Array               | <a? href ="https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/">Reverse the array </a?>                                                                                        | &#9745;          | &#9745;          |
-| Array               | Find the maximum and minimum element in an array                                                         | &#9745;          | &#9745;          |
-| Array               | Find the "Kth" max and min element of an array                                                           | &#9744;          | &#9745;          |
-| Array               | Given an array which consists of only 0, 1 and 2\. Sort the array without using any sorting algo         | &#9744;          | &#9745;          |
-| Array               | Move all the negative elements to one side of the array                                                  | &#9744;          | &#9745;          |
+| Array               | <a href ="https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/">Reverse the array </a>                                                                                        | &#9745;          | &#9745;          |
+| Array               | <a href = "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/">Find the maximum and minimum element in an array</a>                                                         | &#9745;          | &#9745;          |
+| Array               | <a href = "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0">Find the "Kth" max and min element of an array </a>                                                           | &#9744;          | &#9745;          |
+| Array               | <a href = "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0">Given an array which consists of only 0, 1 and 2\. Sort the array without using any sorting algo </a>        | &#9744;          | &#9745;          |
+| Array               | <a href = "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/">Move all the negative elements to one side of the array </a>                                                 | &#9744;          | &#9745;          |
 | Array               | Find the Union and Intersection of the two sorted arrays\.                                               | &#9744;          | &#9744;          |
 | Array               | Write a program to cyclically rotate an array by one\.                                                   | &#9744;          | &#9744;          |
 | Array               | find Largest sum contiguous Subarray \[V\. IMP\]                                                         | &#9744;          | &#9744;          |
