@@ -3,8 +3,8 @@
 | **Topic:**          | **Problem:**                                                                                             | **Completed**  | **Completed**  |
 |:-------------------:|:--------------------------------------------------------------------------------------------------------:|:--------------:|:--------------:|
 |                     |                                                                                                          |                |                |
-| Array               | Reverse the array                                                                                        | - [ ]          | - [ ]          |
-| Array               | Find the maximum and minimum element in an array                                                         | - [ ]          | - [ ]          |
+| Array               | Reverse the array                                                                                        | - [✔]          | - [ ]          |
+| Array               | Find the maximum and minimum element in an array                                                         | - [✔]          | - [ ]          |
 | Array               | Find the "Kth" max and min element of an array                                                           | - [ ]          | - [ ]          |
 | Array               | Given an array which consists of only 0, 1 and 2\. Sort the array without using any sorting algo         | - [ ]          | - [ ]          |
 | Array               | Move all the negative elements to one side of the array                                                  | - [ ]          | - [ ]          |
